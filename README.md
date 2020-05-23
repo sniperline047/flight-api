@@ -1,4 +1,4 @@
-### Put in your MySQL config details in /db/connect.js
+Put in your MySQL config details in /db/connect.js
 
 ### Run the following queries to add table:
 - CREATE TABLE flights(flightNumber VARCHAR(5) PRIMARY KEY, seatCount INT(3) NOT NULL);
